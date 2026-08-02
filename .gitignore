@@ -1,0 +1,6 @@
+.build/
+.swiftpm/
+NoDaysRecord.app/
+dist/
+.dmg-staging/
+.DS_Store
